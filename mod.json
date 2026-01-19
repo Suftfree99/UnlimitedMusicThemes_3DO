@@ -1,0 +1,43 @@
+{
+	"caption": {
+		"Cn_Simp": "",
+		"en_US": "Music_Pack_3DO",
+		"ru_RU": "Music_Pack_3DO"
+	},
+	
+	"description": {
+		"full": {
+			"Cn_Simp": "",
+			"en_US": "description.txt",
+			"ru_RU": "description_rus.txt"
+		},
+		"short": {
+			"Cn_Simp": "",
+			"en_US": "The mod automatically searches and plays alternative mp3 files for Heroes 3 music themes.",
+			"ru_RU": "Мод автоматически находит и проигрывает альтернативные mp3 файлы для музыкальных тем Героев 3."
+		}
+	},
+	
+	"author": "Berserker, Suft",
+	
+	"homepage": "http://wforum.heroes35.net/showthread.php?tid=5832",
+	
+	"icon": {
+		"file": "icon.ico",
+		"index": 0
+	},
+	
+	"mod_version": "2.1.0",
+	
+	"priority": 0,
+	
+	"compatibility": {
+		"class": "all",
+		"entries": {}
+	},
+	
+	"platform": "era",
+	"info_version": "3.3.x",
+	"plugins": {},
+	"category": "music"
+}

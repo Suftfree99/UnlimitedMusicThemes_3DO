@@ -1,0 +1,6 @@
+The mod automatically searches and plays alternative mp3 files for Heroes 3 music themes.
+
+When the game starts, the Mp3 directory is recursively scanned. All files in it and subfolders are sorted by topic.
+Numeric suffixes are ignored. So, dirt.mp3, WoW_Music/dirt007.mp3 and Music_Pack/dirt02.mp3 will be added to the playlist of the "dirt" theme.
+
+Tracks from playlists are changed automatically, based on the settings from json config file to ensure maximum variety and comfort.
